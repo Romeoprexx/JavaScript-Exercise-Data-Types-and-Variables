@@ -1,0 +1,1 @@
+# JavaScript-Exercise-Data-Types-and-Variables
